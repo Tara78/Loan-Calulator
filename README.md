@@ -6,4 +6,6 @@ take to pay a loan back, how much interest would be, how much the total amount w
 
 In this app I had to look up the calculations and the formula to get these results.
 
+I used CDN bootstrap in this application.
+
 
