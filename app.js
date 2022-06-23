@@ -11,7 +11,7 @@ document.getElementById('results').style.display='none';
 });
 
 function calculateResults(){
-console.log('Calculting... '); 
+console.log('Calculating... '); 
 
 // UI vars
 const amount= document.getElementById('amount');
